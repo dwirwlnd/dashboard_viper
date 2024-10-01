@@ -2,6 +2,7 @@
 
 # Setup Environment
 cd project_submission
+
 python -m venv .venv
 
 ## Windows command prompt
