@@ -83,7 +83,7 @@ most_least_state = create_bystate(main_df)
 
 #Visualisasi Data
 
-st.header('Viper E-commerce Dashboard :snake:')
+st.header('Viper E-Commerce Dashboard :snake:')
 
 #Daily Order
 st.subheader('Daily Orders')
